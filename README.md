@@ -1,6 +1,6 @@
-# Zeit - Metodología de Sistemas (Trabajo Práctico 2)
+# Zeit - Metodología de Sistemas (Trabajo Práctico 2) - Primer Boceto💭
 
-Bienvenido a **Zeit**, un proyecto desarrollado como parte del **Trabajo Práctico 2** de la materia **Metodología de Sistemas**. En este proyecto, creamos una plataforma que ofrece soluciones digitales innovadoras para optimizar procesos, reducir tiempos y minimizar costos en el mundo empresarial.
+Bienvenido a **Zeit**, un proyecto bastante sencillo desarrollado como parte del **Trabajo Práctico 2** de la materia **Metodología de Sistemas**. En este proyecto, creamos una plataforma que ofrece soluciones digitales innovadoras para optimizar procesos, reducir tiempos y minimizar costos en el mundo empresarial.
 
 ## 🌟 Sobre el Proyecto
 
